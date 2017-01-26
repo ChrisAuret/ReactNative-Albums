@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, AppRegistry } from 'react-native';
 
 const App = () => (
-  <Text>Jenna has ass problems</Text>
+  <Text>The app</Text>
 );
 
 AppRegistry.registerComponent('albums', () => App);
