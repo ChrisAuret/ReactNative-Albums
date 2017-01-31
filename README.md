@@ -1,2 +1,3 @@
 # ReactNative-Albums
-![Alt text](/screenshots/albums browser.png?raw=true "Optional Title")
+![Alt text](/screenshots/Browse.png?raw=true "Browse albums")
+![Alt text](/screenshots/Buy.png?raw=true "Buy album")
