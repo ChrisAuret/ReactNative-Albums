@@ -12,5 +12,4 @@ const App = () => (
 
 AppRegistry.registerComponent('albums', () => App);
 
-
 // react-native run-android
